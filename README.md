@@ -7,4 +7,4 @@
 Take a look at my projects to get a hint of my work methodology, coding strategies, and algorithmic approach influenced by academic computer science.
 
 ## Certificates
-[_Data Engineering_](https://drive.google.com/file/d/1DyFkn1FmBxyUcDYjxAyBueHEZ5v-moUi/view?usp=sharing)
+[_Data Engineering_](https://validator.centrodeelearning.com/validator/17285134-affd-46bd-978b-18777e91849d)
