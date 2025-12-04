@@ -8,3 +8,4 @@ Take a look at my projects to get a hint of my work methodology, coding strategi
 
 ## Certificates
 [_Data Engineering_](https://validator.centrodeelearning.com/validator/17285134-affd-46bd-978b-18777e91849d)
+[_Database Management_](https://validator.centrodeelearning.com/validator/2ab7de9c-36c5-45b4-82aa-78b0627dfcbf)
