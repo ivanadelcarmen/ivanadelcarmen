@@ -6,6 +6,8 @@
 
 ## Certificates
 
-[_Data Engineering_](https://validator.centrodeelearning.com/validator/17285134-affd-46bd-978b-18777e91849d)
+[_Data Engineering_](https://validator.centrodeelearning.com/validator/96ae418e-0c0e-4fd5-b0df-d24c60c5bcb4)
 
-[_Database Management_](https://validator.centrodeelearning.com/validator/2ab7de9c-36c5-45b4-82aa-78b0627dfcbf)
+[_Diploma Course on Database Management_](https://validator.centrodeelearning.com/validator/2ab7de9c-36c5-45b4-82aa-78b0627dfcbf)
+
+[_Multi-domain Python Development_](https://www.udemy.com/certificate/UC-541ce525-47e5-4286-8f68-9633a87c9aa0/)
