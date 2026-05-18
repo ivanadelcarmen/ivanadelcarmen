@@ -14,8 +14,8 @@
 
 #### Udemy
 
-* [_The Complete Python Developer_](http://ude.my/UC-541ce525-47e5-4286-8f68-9633a87c9aa0)
+* [_The Complete Python Developer_](https://ude.my/UC-541ce525-47e5-4286-8f68-9633a87c9aa0)
 
-* [_Data Engineering for Beginners with Python and SQL_](ude.my/UC-43fa6183-6519-47bb-839e-d233d06cf641)
+* [_Data Engineering for Beginners with Python and SQL_](https://ude.my/UC-43fa6183-6519-47bb-839e-d233d06cf641)
 
-* [_Data Engineering 101_](ude.my/UC-43fa6183-6519-47bb-839e-d233d06cf641)
+* [_Data Engineering 101_](https://ude.my/UC-43fa6183-6519-47bb-839e-d233d06cf641)
